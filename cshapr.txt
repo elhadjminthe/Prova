@@ -1,3 +1,4 @@
-Il C# (pronuncia: ['si? '???p], come la parola inglese "see sharp")[1] è un linguaggio di programmazione orientato agli oggetti sviluppato da Microsoft all'interno dell'iniziativa .NET, e successivamente approvato come standard dalla ECMA (ECMA-334) e ISO (norma ISO/IEC 23270).
+Il C# (pronuncia: ['si? '???p], come la parola inglese "see sharp")[1] ï¿½ un linguaggio di programmazione orientato agli oggetti sviluppato da Microsoft all'interno dell'iniziativa .NET, e successivamente approvato come standard dalla ECMA (ECMA-334) e ISO (norma ISO/IEC 23270).
 
 La sintassi e struttura del C# prendono spunto da vari linguaggi nati precedentemente, in particolare Delphi, C++, Java e Visual BASiC. 
+I am honored to be at the commencement of one of the best university in world
